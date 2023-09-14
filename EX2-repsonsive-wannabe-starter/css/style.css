@@ -174,18 +174,14 @@ img {
     }
 
     h1 {
-        margin-bottom: 3rem;
         font-size: 2.7rem;
     }
     
-    h2 {
-        margin-bottom: 2.5rem;
+    h2 {    
         font-size: 2.2rem;
-        color: #fffffe;
     }
     
     h3 {
-        margin-bottom: 1rem;
         font-size: 1.7rem;
     }
 
